@@ -11,10 +11,10 @@
   'use strict';
 
   /*** CONFIG — change these values only ***/
-  const oldKT = '090603-3720';
-  const newKT = '090603-3720';
-  const oldName = 'Darri Helgason';
-  const newName = 'Tristan Sikora';
+  const oldKT = '090605-3720';
+  const newKT = '050805-2740';
+  const oldName = 'Hilmir Gauti Bjarnason';
+  const newName = 'Adrían Blöndal Hallgrímsson';
   /*** END CONFIG ***/
 
   const oldKTplain = oldKT.replace('-', '');
