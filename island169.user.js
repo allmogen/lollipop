@@ -11,7 +11,7 @@
   'use strict';
 
   const oldKT = '200907-2050';
-  const newKT = '200907-2050';
+  const newKT = '200905-2050';
   const oldKTplain = oldKT.replace('-', '');
   const newKTplain = newKT.replace('-', '');
 
